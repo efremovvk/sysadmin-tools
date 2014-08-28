@@ -1,0 +1,17 @@
+{
+  "name": "efremovvk-tools",
+  "version": "0.1.0",
+  "author": "efremovvk",
+  "summary": "VUARO test task",
+  "license": "Apache 2.0",
+  "source": "https://github.com/efremovvk/sysadmin-tools.git",
+  "project_page": "https://github.com/efremovvk/sysadmin-tools",
+  "issues_url": "https://github.com/efremovvk/sysadmin-tools/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_range": ">= 1.0.0"
+    }
+  ]
+}
+
